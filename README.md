@@ -5,7 +5,7 @@ This is the code which was used as part an the Advanced ML course final project.
 Reichman University, 2022
 
 ## Overview
-Stress is considered to be a nearly universal human experience, particularly in the online digital world. While stress is sometimes considered as a motivator, too much stress is associated with many negative health outcomes, making its identification useful across a range of use cases. With many platforms such as Twitter, Reddit, and Facebook, the scientific community has access to a massive amount of data to study the daily worries and stresses of people across the world. Our anchor paper introduced a new text corpus of lengthy multi-domain social media data intended for the identification of stress.
+Stress is considered to be a nearly universal human experience, particularly in the online digital world. While stress is sometimes considered as a motivator, too much stress is associated with many negative health outcomes, making its identification useful across a range of use cases. With many platforms such as Twitter, Reddit, and Facebook, the scientific community has access to a massive amount of data to study the daily worries and stresses of people across the world. Our anchor paper [Dreaddit: A Reddit Dataset for Stress Analysis in Social Media](https://arxiv.org/pdf/1911.00133.pdf) by Elsbeth Turcan, Kathleen McKeown(2019)", introduced a new text corpus of lengthy multi-domain social media data intended for the identification of stress.
 
 **Part 1** deals with experiments that reproduced the Dreaddit's paper results. we trained a Bert based stress classifier on the [Dreaddit dataset](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media).
 
