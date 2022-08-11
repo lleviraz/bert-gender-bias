@@ -14,7 +14,7 @@ Measuring Bias in ‘Bert’ models is unlike measuring it in classical models s
 To measure the bias on our classifier we mainly followed the experiments proposed in Kurita, Keita, et al. in the paper  ["Quantifying social biases in contextual word representations"(2019)](https://homes.cs.washington.edu/~yuliats/papers/bias_in_bert.pdf)
 
 ## Architechture
-<img src='Gender_Bias_Detection_from_Stress_Model_Latent_Space.png'></img>
+<img src='Gender_Bias_Detection_from_Stress_Model_Latent_Space.png' width="700"></img>
 
 ## Code
 
