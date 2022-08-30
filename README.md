@@ -24,7 +24,11 @@ This work includes 2 parts:
 - Part 1 notebook: [dreaddit_paper_experiments.ipynb](https://github.com/lleviraz/bert-gender-bias/blob/main/dreaddit_paper_experiments.ipynb)
 
 2. Gender Bias Detection for Stress texts in Bert's Contextualized embedding
-- Part 2 notebook: [bert_gender_stress_bias.ipynb](https://github.com/lleviraz/bert-gender-bias/blob/main/bert_gender_stress_bias.ipynb)
+
+Part 2 notebooks: 
+- [Probe experiments](https://github.com/lleviraz/bert-gender-bias/blob/main/bert_gender_stress_bias_2B.ipynb)
+- [Explainers and measurements experiments](https://github.com/lleviraz/bert-gender-bias/blob/main/bert_gender_stress_bias.ipynb)
+
 
 ## Full report 
 
