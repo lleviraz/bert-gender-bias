@@ -32,7 +32,7 @@ Part 2 notebooks:
 
 ## Full report 
 
-- [bert_gender_stress_bias_report.pdf](bert_gender_stress_bias.pdf) (stay tuned....)
+- [final_report.pdf](https://github.com/lleviraz/bert-gender-bias/blob/main/final_report.pdf)
 
 
 
